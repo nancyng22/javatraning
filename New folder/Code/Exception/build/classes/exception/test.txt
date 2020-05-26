@@ -1,0 +1,4 @@
+today we will learn about exception in java
+2 type:
+- checked exeption: at complation- time
+- uncheck exeption: something about logic, at runtime

@@ -1,0 +1,26 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package asg3;
+
+import java.util.ArrayList;
+import java.util.List;
+
+/**
+ *
+ * @author anhnv_tt
+ */
+public class Asg3 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        List<Sumo> list = new ArrayList<>(); 
+        list.add(new Sumo("", 0, point))
+
+    }
+
+}
